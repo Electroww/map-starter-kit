@@ -135889,7 +135889,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-80026b2b.png",
+      "image": "map-chunk-1-2763ccda.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -135972,7 +135972,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "map-chunk-2-80026b2b.png",
+      "image": "map-chunk-2-2763ccda.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -135987,7 +135987,7 @@
     {
       "columns": 8,
       "firstgid": 513,
-      "image": "map-chunk-3-80026b2b.png",
+      "image": "map-chunk-3-2763ccda.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
@@ -136004,7 +136004,7 @@
   "compressionlevel": -1,
   "height": 55,
   "infinite": false,
-  "nextlayerid": 89,
+  "nextlayerid": 90,
   "nextobjectid": 10,
   "orientation": "orthogonal",
   "properties": [
