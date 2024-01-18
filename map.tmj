@@ -9934,7 +9934,7 @@
       "name": "MyEndlessRacer",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 60,
       "properties": [
         {
@@ -13259,7 +13259,7 @@
       "name": "Planing poker",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 60,
       "properties": [
         {
@@ -16589,7 +16589,7 @@
       "name": "jitsiMeetingRoom3",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 60,
       "properties": [
         {
@@ -19909,7 +19909,7 @@
       "name": "jitsiMeetingRoom2",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 60,
       "properties": [
         {
@@ -135889,7 +135889,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-8296d694.png",
+      "image": "map-chunk-1-80026b2b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -135972,7 +135972,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "map-chunk-2-8296d694.png",
+      "image": "map-chunk-2-80026b2b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -135987,7 +135987,7 @@
     {
       "columns": 8,
       "firstgid": 513,
-      "image": "map-chunk-3-8296d694.png",
+      "image": "map-chunk-3-80026b2b.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
